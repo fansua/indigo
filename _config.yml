@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://fansua.github.io/cv/
 
-url: https://fansua.io/
+url: https://fansua.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
