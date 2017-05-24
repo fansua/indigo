@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Welcome, my name is Reneal. I am an aspiring Software Craftsman, seeking a
+<p>Welcome, my name is Reneal Fansua Rogers. I am an aspiring Software Craftsman, seeking a
 full-time position as a Software Developer. I am soon to be a graduate of
 Carleton University with a BEng. Computer Systems. I love programming and at the
 same time hate it (LOL).Okay, not really hate because hate is such a strong word
